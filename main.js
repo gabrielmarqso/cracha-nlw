@@ -3,7 +3,7 @@ const links = {
   youtube: 'GabrielMarquesK8',
   facebook: 'gabrielmarqso',
   instagram: 'gabrielmarqso',
-  twitter: 'dearbigcheese'
+  linkedin: 'in/gabrielmarqso/'
 }
 
 function changeSocialMediaLinks() {
